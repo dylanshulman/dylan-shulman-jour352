@@ -1,0 +1,97 @@
+#content {
+	margin: 0 auto;
+	width:  900px;
+}
+
+p {
+  text-align:left;
+  line-height:180%;
+  font-family: 'Georgia', serif;
+  font-size: 16px;
+}
+
+#masthead {
+	color: white;
+	text-align: center;
+	background-color: black;
+	font-family: 'Great Vibes', cursive;
+	font-size: 64px;
+	padding-bottom: 10px;
+}
+
+#headline {
+	padding-top: 20px;
+	font-family: "Times New Roman", sans-serif;
+	font-size: 35px;
+	margin: 0 auto;
+	width:  900px;
+	font-weight: bold;
+}
+
+#byline {
+	font-family: 'Helvetica,' sans-serif;
+	font-size: 16px;
+	padding-bottom: 20px;
+}
+
+img {
+	margin: 0 auto;
+	width: 900px;
+	align-content: center;
+}
+
+#caption {
+	font-family: Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: italic;
+	padding-bottom: 10px;
+}
+
+#graphic-title {
+	text-align:left;
+  	line-height:180%;
+  	font-family: 'Georgia', serif;
+  	font-size: 16px;
+  	font-weight: bold;
+}
+
+#graphic-chatter {
+	text-align:left;
+  	line-height:180%;
+ 	font-family: 'Georgia', serif;
+  	font-size: 15px;
+  	color: #696969;
+}
+
+blockquote {
+	font-size: 35px;
+	text-align: center;
+	color: #5f34c2;
+	font-family: 'Great Vibes', cursive;
+}
+
+li {
+	text-align:left;
+  	line-height:180%;
+  	font-family: 'Georgia', serif;
+ 	 font-size: 16px;
+}
+
+#header {
+	font-family: 'Philosopher', sans-serif;
+	font-size: 1.5em;
+	text-transform: uppercase;
+	text-align: center;
+	background-color: #a3c8da;
+	color: white;
+	font-weight: 400;
+	border-radius: 15px;
+}
+
+#pub-date {
+	margin: 0 auto;
+	font-family: 'Times', serif;
+	width: 900px;
+	font-style: italic;
+	font-size: 14px;
+}

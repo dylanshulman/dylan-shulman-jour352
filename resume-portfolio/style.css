@@ -1,0 +1,133 @@
+#title {
+	text-align: center;
+	font-family: 'Philosopher', sans-serif;
+	font-size: 20px;
+	font-style: italic;
+	color: gray;
+	padding-bottom: 1%;
+}
+
+#Name {
+	font-family: 'Philosopher', sans-serif;
+	text-align: center;
+	font-size: 50px;
+	font-weight: bold;
+}
+
+p {
+	font-family: "Times New Roman", serif;
+}
+
+#headers {
+	color: #a3c8da;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  padding-top: 2%;
+}
+
+#nav {
+	background-color: #a3c8da;
+	font-family: "Times New Roman", serif;
+	margin: 0 30% 0 30%;
+	border-radius: 15px;
+}
+
+#nav-link {
+	color: white;
+}
+
+#nav-link-disabled {
+	color: black;
+	font-weight: bold;
+}
+
+hr {
+	color: black;
+	width: 40%;
+	align-content: center;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	height: 40px;
+}
+
+#socials {
+	align-content: center;
+	margin: 0 30% 0 30%;
+}
+
+#icon {
+	font-size: 40px;
+	text-align: center;
+	color: black;
+}
+
+#sectionheader {
+	font-family: 'Philosopher', sans-serif;
+	font-size: 1.5em;
+	text-transform: uppercase;
+	text-align: center;
+	background-color: #a3c8da;
+	color: white;
+	font-weight: 400;
+	margin: 10px 25% 0 25%;
+	border-radius: 15px;
+}
+
+#experience {
+	font-family: 'Philosopher', sans-serif;
+	font-size: 1.5em;
+	text-transform: uppercase;
+	text-align: center;
+	background-color: #a3c8da;
+	color: white;
+	font-weight: 400;
+	margin: 10px 37% 0 37%;
+	border-radius: 15px;
+}
+
+#jobtitle {
+	font-weight: 600;
+	font-size: 1.5em;
+	font-family: 'Times', serif;
+}
+
+#organization {
+	font-weight: 400;
+	font-size: 1.25em;
+	font-family: 'Times', serif;
+}
+
+#date {
+	font-weight: 400;
+	font-style: italic;
+	font-size:  1em;
+	margin: 2px 0 0 0;
+	font-family: 'Times', serif;
+}
+
+li {
+	font-family: 'Times', serif;
+}
+
+#skills {
+	text-align: center;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #a3c8da;
+	border-radius: 15px;
+}
+
+#footer {
+	font-family: 'Times', serif;
+	font-size: 12px;
+	text-align: center;
+	background-color: #a3c8da;
+	color: white;
+	padding: 20px 0 20px 0;
+}
