@@ -1,0 +1,116 @@
+#firstletter {
+	display: inline-block;
+}
+
+#header-image {
+	margin: 0 auto;
+	position: center !important;
+  text-align: center;
+ 	color: #fca103;
+ 	font-family: 'Tangerine', cursive;
+ 	font-size: 127px;
+ 	line-height: initial;
+}
+
+#img {
+	margin: 0 auto;
+	width: 100%;
+	align-content: center;
+}
+
+img {
+	margin: 0 auto;
+	width: 100%;
+}
+
+#band-name {
+	position: absolute;
+		top: 30%;
+  	left: 50%;
+  	transform: translate(-50%, -50%);
+}
+
+#headline {
+	font-family:'Times';
+	font-weight: bold;
+	color: white;
+	font-size: 40px;
+	text-align: center;
+	line-height: 1;
+	padding: 20px 0 20px 0;
+	margin: 0 150px 0 150px;
+}
+
+#dek {
+	color: white;
+	font-family: 'Times';
+	font-size: 12pt;
+	text-align: center;
+	margin: 0 150px 0 150px;
+}
+
+#subtitle {
+	color: #fca103;
+	font-family: 'Times', sans-serif;
+	font-size: 15pt;
+	padding-top: 10px;
+	font-weight: bold;
+}
+
+#byline {
+	color: white;
+	font-family: 'Times';
+	font-size: 12pt;
+	text-align: center;
+	margin: 0 150px 0 150px;
+	font-style: italic;
+	padding-top: 20px;
+}
+
+p {
+	color: white;
+	font-family: 'Helvetica', sans-serif;
+	font-size: 12pt;
+}
+
+#caption {
+	font-family: 'Times', serif;
+	font-size: 10pt;
+	font-style: italic;
+	padding-bottom: 10px;
+	color: #fca103;
+}
+
+#content {
+	margin: 0 auto;
+	max-width:  900px;
+	background-color: black;
+}
+
+html {
+	background-color: black;
+	width: 100%;
+} 
+
+body {
+	background-color: black !important;
+	width: 100%;
+}
+
+#quote {
+	font-size: 35px;
+	text-align: center;
+ 	color: #fca103;
+ 	font-family: 'Tangerine', cursive;
+	margin: 0 200px 0 200px;
+}
+
+li {
+	text-align: center;
+	font-family: 'Times', serif;
+}
+
+nav {
+	background-color: black !important;
+	padding: 50px 0 50px 0;
+}
